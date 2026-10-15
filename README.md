@@ -7,7 +7,7 @@ A machine learning project that predicts house prices using the California Housi
 - Random Forest: R2 = 0.80, average error = $33,000
 
 ## How to run
-'''
+```
 pip install -r requirements.txt
 python train_forest.py
-'''
+```
